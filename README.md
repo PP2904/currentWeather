@@ -1,5 +1,5 @@
 # currentWeather
-get current weather through API
+get current weather through API(https://openweathermap.org/api)
 
 # parameters:
 q= CityName\
