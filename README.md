@@ -1,6 +1,6 @@
 # currentWeather
 get current weather through API
 
-#parameters:
-q= CityName&nbsp;
+# parameters:
+q= CityName\
 appid= yourAPI-key
